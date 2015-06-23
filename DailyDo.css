@@ -1,0 +1,11 @@
+/* CSS declarations go here */
+.checked {
+	color: grey;
+	text-decoration: line-through;
+}
+
+html {
+	font-weight: 300;
+	text-decoration: none;
+}
+
